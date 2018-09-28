@@ -1,0 +1,66 @@
+
+.main-header {
+    background-image: url(./images/dinner1.jpg); 
+    background-position: center;
+    background-size: cover;   
+    height: 100vh; 
+  } 
+
+.bg {
+    background-color: rgba(0,0,0,.85);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header-links {
+    padding: 50px;
+    font-size: 20px;
+    float: right;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.icon-section {
+    font-family: 'Bai Jamjuree', sans-serif;
+    float: left;
+    color: white;
+}
+
+.plate-icon {
+    float: left;
+    color: white;
+    height: 100px;
+    margin: 20px;
+    padding-left: 25px;
+}
+
+.project-name {
+    float: right;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.about-link {
+    color: white;
+    padding-right: 30px;
+}
+
+.header-main-text {
+    color: white;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.login-link {
+    color: white;
+    padding-right: 30px;
+}
+
+.contact-link {
+    color: white;
+    padding-right: 20px;
+}
+
