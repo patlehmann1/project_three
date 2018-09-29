@@ -6,3 +6,7 @@ button {
     font-family: 'Roboto', sans-serif;
     font-size: 20px !important;
 }
+
+.main-nav {
+    background-color: black !important;
+}

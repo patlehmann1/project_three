@@ -7,7 +7,7 @@ class LandingPage extends Component {
 render() {
     return (
         <div className="yeah">
-        <div class="lp-text">
+        <div className="lp-text">
         <span>Share a home-cooked meal with (new) friends.</span>
         </div>
         </div> 
