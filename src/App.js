@@ -9,7 +9,8 @@ class App extends Component {
     return (
       <div className="main-element">
       <div className="overlay">
-      <ButtonAppBar />
+      <ButtonAppBar
+      container />
       <LandingPage />
       </div>
       </div>
