@@ -8,10 +8,14 @@ render() {
     return (
         <div className="yeah">
         <div class="lp-text">
-        <span>Share a home-cooked meal with (new) friends.</span>
+        <h1><i class="fas fa-search-location"></i> Search</h1>
+        <h1><i class="far fa-comments"></i> Connect</h1>
+        <h1><i class="fas fa-utensils"></i> Eat</h1>
         </div>
         </div> 
+        
     )
+    
 }
 
 }
