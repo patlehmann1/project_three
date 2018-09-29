@@ -1,24 +1,17 @@
-.App {
-  text-align: center;
+.main-element {
+    background-image: url(./dinner3.jpg); 
+    background-size: cover;
+    height: 100vh;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.overlay {
+        position: fixed;
+        width: 100%; /* Full width (cover the whole page) */
+        height: 100%; /* Full height (cover the whole page) */
+        top: 0; 
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.85); /* Black background with opacity */
+        cursor: pointer; /* Add a pointer on hover */
 }
