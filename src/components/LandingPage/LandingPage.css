@@ -1,16 +1,22 @@
 
-.main-header {
-    background-image: url(./images/dinner1.jpg); 
-    background-position: center;
-    background-size: cover;   
-    height: 100vh; 
-  } 
 
-.bg {
-    background-color: rgba(0,0,0,.85);
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
+.yeah {
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lp-text {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    font-size: 50px;
 }
 
 a {
@@ -25,7 +31,7 @@ a {
 }
 
 .icon-section {
-    font-family: 'Bai Jamjuree', sans-serif;
+    
     float: left;
     color: white;
 }
