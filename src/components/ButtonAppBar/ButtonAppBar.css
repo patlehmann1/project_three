@@ -1,5 +1,9 @@
 .plate-icon {
     height: 50px;
+    margin: 0;
+    padding-right: 5px;
+    padding-left: 0;
+    padding-top: 0;
 }
 
 button {
@@ -9,4 +13,21 @@ button {
 
 .main-nav {
     background-color: black !important;
+    position: sticky;
 }
+
+.navbar-brand {
+    margin-top: 5px;
+}
+
+@media only screen and (min-width: 1024px) {
+    .main-nav {
+        float: right;
+    }
+}
+
+/* @media only screen and (max-width: 1024px) {
+    .navbar-brand {
+        margin-right: 25% !important;
+    }
+} */
