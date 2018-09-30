@@ -6,13 +6,13 @@
     padding-top: 0;
 }
 
-.icon-and-brand-wrapper {
-    padding: 0;
+.icon-brand-wrapper {
+    padding: 10px;
 
 }
 
 .navbar-brand {
-    padding-top: 30px;
+    padding-top: 10px;
 }
 
 .nav-link {
