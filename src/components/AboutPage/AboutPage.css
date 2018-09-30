@@ -50,10 +50,10 @@
 .about-me-summary {
     border: 1px solid grey;
     margin: 0 3vw;
-    height: 10%;
+    height: 25%;
 }
 
 .about-me-summary-text {
-    padding: 2%;
-    font-size: 20px;
+    margin: 40px;
+    font-size: 25px;
 }
