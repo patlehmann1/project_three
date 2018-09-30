@@ -13,27 +13,27 @@ function ButtonAppBar() {
   </button>
 
   <div className="collapse navbar-collapse text-white" id="navbarSupportedContent">
-    <ul className="navbar-nav mr-auto">
-      <li className="nav-item">
-        <a className="nav-link" href="#">Become a Host</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link" href="#">Login</a>
-      </li>
-      <li className="nav-item">
-        <a className="nav-link" href="#">Sign Up</a>
-      </li>
-      <li className="nav-item dropdown">
-        <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a className="dropdown-item" href="#">Become a Host</a>
-          <a className="dropdown-item" href="#">Login</a>
-          <div className="dropdown-divider"></div>
-          <a className="dropdown-item" href="#">Sign Up</a>
-        </div>
-      </li>
-    </ul>
+   <ul className="navbar-nav mr-auto">
+    <li className="nav-item">
+     <a className="nav-link" href="#">About</a>
+    </li>
+    <li className="nav-item">
+     <a className="nav-link" href="#">Login</a>
+    </li>
+    <li className="nav-item">
+     <a className="nav-link" href="#">Sign Up</a>
+    </li>
+    <li className="nav-item dropdown">
+     <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+      <a className="dropdown-item" href="#">Become a Host</a>
+      <a className="dropdown-item" href="#">Login</a>
+      <div className="dropdown-divider"></div>
+      <a className="dropdown-item" href="#">Sign Up</a>
+     </div>
+    </li>
+   </ul>
   </div>
-</nav>
+ </nav>
   );
 }
 
