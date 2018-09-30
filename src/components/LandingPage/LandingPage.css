@@ -1,10 +1,14 @@
 
 
-.yeah {
+.lp-wrapper {
     padding: 30px;
     text-align: center;
     color: white;
     font-family: 'Montserrat', sans-serif;
+}
+
+.lp {
+    font-size: 60px;
 }
 
 .lp-text {

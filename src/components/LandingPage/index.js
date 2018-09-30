@@ -6,11 +6,11 @@ class LandingPage extends Component {
 
 render() {
     return (
-        <div className="yeah">
-        <div class="lp-text">
-        <h1><i class="fas fa-search-location"></i> Search</h1>
-        <h1><i class="far fa-comments"></i> Connect</h1>
-        <h1><i class="fas fa-utensils"></i> Eat</h1>
+        <div className="lp-wrapper">
+        <div className="lp-text">
+        <h1 className="lp"><i class="fas fa-search-location"></i> Search</h1>
+        <h1 className="lp"><i className="far fa-comments"></i> Connect</h1>
+        <h1 className="lp"><i class="fas fa-utensils"></i> Eat</h1>
         </div>
         </div>
     )

@@ -4,7 +4,10 @@ import './ButtonAppBar.css'
 function ButtonAppBar() {
   return (
 <nav className="navbar navbar-expand-lg navbar-dark bg-dark text-white main-nav">
+  <div className="icon-brand-wrapper">
+  <img src={require('./images/iconfinder-256.png')} className='plate-icon' />
   <a className="navbar-brand" href="#">Dinner Bell</a>
+  </div>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
