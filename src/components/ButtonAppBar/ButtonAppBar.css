@@ -11,6 +11,10 @@
     padding-top: 30px;
 }
 
+.nav-link {
+    float: right !important;
+}
+
 button {
     font-family: 'Roboto', sans-serif;
     font-size: 20px !important;

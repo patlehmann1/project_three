@@ -8,9 +8,9 @@ render() {
     return (
         <div className="lp-wrapper">
         <div className="lp-text">
-        <h1 className="lp"><i class="fas fa-search-location"></i> Search</h1>
-        <h1 className="lp"><i className="far fa-comments"></i> Connect</h1>
-        <h1 className="lp"><i class="fas fa-utensils"></i> Eat</h1>
+        <span className="lp"><i class="fas fa-search-location"></i> Search</span><br />
+        <span className="lp"><i className="far fa-comments"></i> Connect</span><br />
+        <span className="lp"><i class="fas fa-utensils"></i> Eat</span>
         </div>
         </div>
     )
