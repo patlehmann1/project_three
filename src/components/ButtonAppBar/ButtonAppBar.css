@@ -1,5 +1,9 @@
 .plate-icon {
     height: 50px;
+    margin: 0;
+    padding-right: 5px;
+    padding-left: 0;
+    padding-top: 0;
 }
 
 .icon-and-brand-wrapper {
