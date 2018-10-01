@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import LandingPage from './components/LandingPage';
 import ButtonAppBar from './components/ButtonAppBar';
-
+import AboutPage from './components/AboutPage';
 
 class App extends Component {
   render() {
@@ -14,9 +14,7 @@ class App extends Component {
       <LandingPage />
       </div>
       </div>
-      <div className="about-me">
-      PATRICK WILLIAM LEHMANN
-      </div>
+      <AboutPage />
       </div>
     );
   }

@@ -6,6 +6,19 @@
     padding-top: 0;
 }
 
+.icon-brand-wrapper {
+    padding: 10px;
+
+}
+
+.navbar-brand {
+    padding-top: 10px;
+}
+
+.nav-link {
+    float: right !important;
+}
+
 button {
     font-family: 'Roboto', sans-serif;
     font-size: 20px !important;
@@ -13,21 +26,6 @@ button {
 
 .main-nav {
     background-color: black !important;
-    position: sticky;
+    padding-top: 0;
+    padding-bottom: 0;
 }
-
-.navbar-brand {
-    margin-top: 5px;
-}
-
-@media only screen and (min-width: 1024px) {
-    .main-nav {
-        float: right;
-    }
-}
-
-/* @media only screen and (max-width: 1024px) {
-    .navbar-brand {
-        margin-right: 25% !important;
-    }
-} */
