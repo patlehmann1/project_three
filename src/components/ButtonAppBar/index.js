@@ -25,7 +25,7 @@ function ButtonAppBar() {
     </li>
     <li className="nav-item dropdown">
      <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-      <a className="dropdown-item" href="#">Become a Host</a>
+      <a className="dropdown-item" href="#">About</a>
       <a className="dropdown-item" href="#">Login</a>
       <div className="dropdown-divider"></div>
       <a className="dropdown-item" href="#">Sign Up</a>

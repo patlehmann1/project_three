@@ -1,8 +1,8 @@
 .plate-icon {
     height: 50px;
     margin: 0;
-    padding-right: 5px;
-    padding-left: 0;
+    padding-right: 20px;
+    padding-left: 20px;
     padding-top: 0;
 }
 
@@ -13,15 +13,6 @@
 
 .navbar-brand {
     padding-top: 10px;
-}
-
-.nav-link {
-    float: right !important;
-}
-
-button {
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px !important;
 }
 
 .main-nav {
